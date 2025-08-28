@@ -83,12 +83,3 @@ Steps:
 
 ---
 
-## 📂 Repository Structure  
-HR-Attrition-Analysis/
-│
-├── HR_Attrition_Analysis_Colab.ipynb # Main analysis notebook
-├── HR_Attrition_Report.pdf # Full report (optional)
-├── HR Data.csv # Dataset
-└── README.md # Project overview
-
------
