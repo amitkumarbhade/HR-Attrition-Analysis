@@ -74,7 +74,7 @@ helping organisations design **targeted retention strategies** such as:
 ## 🚀 How to Run  
 You can run the notebook directly in **Google Colab** (no setup required):  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amitkumarbhade/HR-Attrition-Analysis/blob/main/HR_Attrition_Analysis.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amitkumarbhade/HR_Attrition_Analysis/blob/main/HR_Attrition_Analysis.ipynb)  
 
 Steps:  
 1. Upload the notebook (`HR_Attrition_Analysis.ipynb`) to your Colab/drive.  
